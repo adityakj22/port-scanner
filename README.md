@@ -11,4 +11,4 @@ A simple, multi-threaded Python script to scan the first 1024 TCP ports of a giv
 ## 🛠️ Usage
 
 ```bash
-python port_scanner.py
+python port-scanner.py
